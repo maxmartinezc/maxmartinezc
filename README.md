@@ -14,4 +14,4 @@ Safety and trust
 Nowadays, my goal is to use my knowledge of software arquitecture and backend development experience to move forward in order to become a mobile developer on IOS native
 
 ## :coffee: Get in touch
-* Linkedin: https://www.linkedin.com/in/maxmartinezc/
+* [Linkedin](https://www.linkedin.com/in/maxmartinezc/)
