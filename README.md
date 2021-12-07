@@ -1,6 +1,6 @@
 # Max Martinez
 
-I'm a senior software enginieer, and I've been working for over 12 years. I'm Always motivated to be a better professional and person. 
+I'm a senior software enginieer and I've been working for over 12 years. I'm Always motivated to be a better professional and person. 
 
 As a Technical lead I'm showing to my teams the way to improve their technical skills and I'm sharing with them my experience to design and develop better solutions. 
 
