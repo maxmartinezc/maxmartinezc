@@ -8,8 +8,5 @@ Throughout my 10-year-plus career as software developer I have a strong passion 
 Safety and trust
 -->
 
-## :rocket: Goals after pandemic
-Nowadays, my goal is to use my knowledge of software arquitecture and backend development experience to move forward in order to become a mobile developer on IOS native
-
 ## :coffee: Get in touch
 * [Linkedin](https://www.linkedin.com/in/maxmartinezc/)
