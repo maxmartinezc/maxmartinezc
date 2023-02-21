@@ -10,3 +10,6 @@ Safety and trust
 
 ## :coffee: Get in touch
 * [Linkedin](https://www.linkedin.com/in/maxmartinezc/)
+
+
+![](https://komarev.com/ghpvc/?username=maxmartinezc&color=green)
