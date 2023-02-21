@@ -10,12 +10,19 @@ I’ve worked for firms that provided me with valuable experiences as a software
 ![#](https://img.shields.io/static/v1?label=-&message=Javascript&color=brightgreen)
 ![#](https://img.shields.io/static/v1?label=-&message=Typescript&color=brightgreen)
 
+![#](https://img.shields.io/static/v1?label=-&message=HTML&color=yellow)
+![#](https://img.shields.io/static/v1?label=-&message=CSS&color=yellow)
+
 ![#](https://img.shields.io/static/v1?label=-&message=Nestjs&color=important)
 ![#](https://img.shields.io/static/v1?label=-&message=Express&color=important)
 ![#](https://img.shields.io/static/v1?label=-&message=SpringBoot&color=important)
+![#](https://img.shields.io/static/v1?label=-&message=Angular&color=important)
 ![#](https://img.shields.io/static/v1?label=-&message=Swift&color=important)
 
 ![#](https://img.shields.io/static/v1?label=-&message=Docker&color=blue)
+![#](https://img.shields.io/static/v1?label=-&message=GitLabCI/CD&color=blue)
+![#](https://img.shields.io/static/v1?label=-&message=Jenkins&color=blue)
+![#](https://img.shields.io/static/v1?label=-&message=GitHubWorkflow&color=blue)
 ![#](https://img.shields.io/static/v1?label=-&message=LambdaFunction&color=brighbluetgreen)
 
 
