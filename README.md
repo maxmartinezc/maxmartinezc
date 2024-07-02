@@ -26,6 +26,7 @@ I've worked for firms that provided me with valuable experiences as a software e
 ![#](https://img.shields.io/static/v1?label=-&message=Jenkins&color=blue)
 ![#](https://img.shields.io/static/v1?label=-&message=GitHubWorkflow&color=blue)
 ![#](https://img.shields.io/static/v1?label=-&message=LambdaFunction&color=blue)
+![#](https://img.shields.io/static/v1?label=-&message=AzurePipelines&color=blue)
 
 
 
