@@ -6,6 +6,7 @@ I've worked for firms that provided me with valuable experiences as a software e
 
 ## Technology Stack
 ![#](https://img.shields.io/static/v1?label=-&message=NodeJS&color=brightgreen)
+![#](https://img.shields.io/static/v1?label=-&message=Deno&color=brightgreen)
 ![#](https://img.shields.io/static/v1?label=-&message=Java&color=brightgreen)
 ![#](https://img.shields.io/static/v1?label=-&message=Javascript&color=brightgreen)
 ![#](https://img.shields.io/static/v1?label=-&message=Typescript&color=brightgreen)
@@ -20,6 +21,7 @@ I've worked for firms that provided me with valuable experiences as a software e
 ![#](https://img.shields.io/static/v1?label=-&message=Nestjs&color=important)
 ![#](https://img.shields.io/static/v1?label=-&message=Express&color=important)
 ![#](https://img.shields.io/static/v1?label=-&message=SpringBoot&color=important)
+![#](https://img.shields.io/static/v1?label=-&message=Playwright&color=important)
 
 ![#](https://img.shields.io/static/v1?label=-&message=Docker&color=blue)
 ![#](https://img.shields.io/static/v1?label=-&message=GitLabCI/CD&color=blue)
